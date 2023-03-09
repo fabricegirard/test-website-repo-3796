@@ -1,6 +1,6 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
+Le Fab est actuellement composée de 1 membre.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+Pour nous(me) contacter : [coucou@cest.moi](mailto:fabrice.girard@onmail.com)
